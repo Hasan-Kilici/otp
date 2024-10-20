@@ -169,7 +169,7 @@ Description
 
 ---
 
-References
+### References
 - [RFC 4226: HOTP: An HMAC-Based One-Time Password Algorithm](https://www.ietf.org/rfc/rfc4226.txt)
 - [RFC 6238: TOTP: Time-Based One-Time Password Algorithm](https://datatracker.ietf.org/doc/html/rfc6238)
 - [RFC 6287: OCRA: OATH Challenge-Response Algorithm](https://www.rfc-editor.org/rfc/rfc6287.html)
