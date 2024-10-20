@@ -1,5 +1,4 @@
 package otp
-
 import (
 	"crypto/hmac"
 	"crypto/sha1"
